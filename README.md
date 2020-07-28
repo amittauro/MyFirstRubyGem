@@ -22,7 +22,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+cipher.rb ll enc .txt
+cipher.rb ln enc .txt key
+cipher.rb ll dec .txt
+cipher.rb ln dec .txt key
 
 ## Development
 
