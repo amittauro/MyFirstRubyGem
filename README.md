@@ -1,8 +1,13 @@
 # CipherworldAmitjuly2020
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/cipherworld_amitjuly2020`. To experiment with that code, run `bin/console` for an interactive prompt.
+A gem to encrypt and decrypt txt files. Use the following options:
+* 'ruby RUBYFILE.rb ll enc FILE.txt' for letter letter encryptions
+* 'ruby RUBYFILE.rb ln enc FILE.txt key' for letter number encryptions
+* 'ruby RUBYFILE.rb ll dec FILE.txt' for letter letter decryptions
+* 'ruby RUBYFILE.rb ln dec FILE.txt key' for letter number decryptions
 
-TODO: Delete this and the text above, and describe your gem
+key refers to a number: this can be any number
+
 
 ## Installation
 
