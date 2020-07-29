@@ -130,5 +130,5 @@ module CipherworldAmitjuly2020
   else
     raise "Incorrect acronym for encrypt or decrypt. Expect 'enc' or 'dec'"
   end
-  
+
 end
